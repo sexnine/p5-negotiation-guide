@@ -6162,9 +6162,9 @@
             "g TalkMsg_GUY_CH"
         ],
         "choices": [
-            "",
-            "l TalkSel_GUY_CHAT_SQ_06 t",
-            "It's saddening."
+            "It's saddening.",
+            "I don't really think about it.",
+            "Privacy is important."
         ],
         "reactions_table": [
             [
@@ -6192,13 +6192,13 @@
         "type": "baba",
         "question": 1,
         "chats": [
-            "",
-            "g TalkMsg_GUY_CH"
+            "...You know, dearie, I hear some humans take pleasure in playing pranks on the elderly.",
+            "After confronting me like this... Are you that kind of human too?"
         ],
         "choices": [
-            "",
-            "l TalkSel_GUY_CHAT_SQ_07 t",
-            "That's not my style."
+            "That's not my style.",
+            "You've got a point...",
+            "What's wrong with that?"
         ],
         "reactions_table": [
             [
@@ -6226,13 +6226,13 @@
         "type": "baba",
         "question": 1,
         "chats": [
-            "",
-            "g TalkMsg_GUY_CH"
+            "You know, dearie, humans sure like to poke fun at the elderly.",
+            "I wish they would leave us old people alone. After all, it's not like we have much time left."
         ],
         "choices": [
-            "",
-            "l TalkSel_GUY_CHAT_SQ_08 t",
-            "I agree."
+            "I agree.",
+            "Speak for yourself.",
+            "There's an aging boom..."
         ],
         "reactions_table": [
             [
@@ -6260,13 +6260,13 @@
         "type": "baba",
         "question": 1,
         "chats": [
-            "",
-            "g TalkMsg_GUY_CH"
+            "Oh, I wanted to ask you, dearie. There's something I heard about riding trains in the real world...",
+            "Some old people refuse to make use of special seats reserved for the elderly. What do you think of that?"
         ],
         "choices": [
-            "",
-            "l TalkSel_GUY_CHAT_SQ_09 t",
-            "No problem with it."
+            "No problem with it.",
+            "They shouldn't push themselves.",
+            "They must be young inside."
         ],
         "reactions_table": [
             [
@@ -6294,13 +6294,13 @@
         "type": "baba",
         "question": 1,
         "chats": [
-            "",
-            "g TalkMsg_GUY_CH"
+            "I've been hearing that more of the elderly are dying alone, and it's becoming a problem in your world.",
+            "I think dying alone isn't so bad, dearie, but isn't living alone in the first place the real tragedy? "
         ],
         "choices": [
-            "",
-            "l TalkSel_GUY_CHAT_SQ_10 t",
-            "I don't think so. "
+            "I don't think so. ",
+            "Maybe you're right.",
+            "Being alone is a luxury."
         ],
         "reactions_table": [
             [
@@ -6328,13 +6328,13 @@
         "type": "baba",
         "question": 1,
         "chats": [
-            "",
-            "g TalkMsg_GUY_CH"
+            "I've been wanting to ask a young person like you about the clothes young women wear these days...",
+            "They wear sleeveless shirts in the winter, right? What do you think about that, dearie?"
         ],
         "choices": [
-            "",
-            "l TalkSel_GUY_CHAT_SQ_11 t",
-            "I like it."
+            "I like it.",
+            "They miss seasonal changes.",
+            "I don't care."
         ],
         "reactions_table": [
             [
@@ -6362,13 +6362,13 @@
         "type": "baba",
         "question": 1,
         "chats": [
-            "",
-            "g TalkMsg_GUY_CH"
+            "...Now that I think about it, you're the one who approached me. Isn't that right, dearie?",
+            "You were the first one to show any interest, so I think you should say something to make me happy."
         ],
         "choices": [
-            "",
-            "l TalkSel_GUY_CHAT_SQ_12 t",
-            "Now that you mention it..."
+            "Now that you mention it...",
+            "I can't think of anything.",
+            "Don't be so full of yourself."
         ],
         "reactions_table": [
             [
@@ -6396,13 +6396,13 @@
         "type": "baba",
         "question": 1,
         "chats": [
-            "",
-            "g TalkMsg_GUY_CH"
+            "You know, dearie, I don't think people say \"hepcat\" or \"that's smooooth music\" anymore.",
+            "Don't you think it's sad that slang and sayings can grow old and get outdated?"
         ],
         "choices": [
-            "",
-            "l TalkSel_GUY_CHAT_SQ_13 t",
-            "That is sad."
+            "That is sad.",
+            "I don't think so.",
+            "That just proves you're old."
         ],
         "reactions_table": [
             [
@@ -6430,13 +6430,13 @@
         "type": "baba",
         "question": 1,
         "chats": [
-            "",
-            "g TalkMsg_GUY_CH"
+            "You know, dearie, I've been meaning to ask... Humans do things called \"reunions,\" no?",
+            "Would you be willing to spend time and money to see people you haven't contacted for years?"
         ],
         "choices": [
-            "",
-            "l TalkSel_GUY_CHAT_SQ_14 t",
-            "Maybe, I guess."
+            "Maybe, I guess.",
+            "Sounds like a drag.",
+            "It'd be too awkward."
         ],
         "reactions_table": [
             [
@@ -6464,13 +6464,13 @@
         "type": "baba",
         "question": 1,
         "chats": [
-            "",
-            "g TalkMsg_GUY_CH"
+            "Oh, times are tough in the real world, too. I hear your economy's been doing pretty badly, dearie...",
+            "Something about people putting honey on cucumbers to feel like they're eating fancy cantaloupe...?"
         ],
         "choices": [
-            "",
-            "l TalkSel_GUY_CHAT_SQ_15 t",
-            "I use those tips."
+            "I use those tips.",
+            "It makes me sad.",
+            "Finding new tricks is fun."
         ],
         "reactions_table": [
             [
@@ -6498,13 +6498,13 @@
         "type": "baba",
         "question": 1,
         "chats": [
-            "",
-            "g TalkMsg_GUY_CH"
+            "When I think about it... I have no family, and I don't have much time left...",
+            "I suppose it makes no difference if you kill me or if I die just a little bit later, dearie."
         ],
         "choices": [
-            "",
-            "l TalkSel_GUY_CHAT_SQ_16 t",
-            "That's right."
+            "That's right.",
+            "That isn't true.",
+            "You're giving up?"
         ],
         "reactions_table": [
             [
