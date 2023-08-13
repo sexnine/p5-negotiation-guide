@@ -15,7 +15,7 @@ module.exports = {
       black: colors.black,
       transparent: "transparent",
       // slate: colors.slate,
-      // gray: colors.gray,
+      gray: colors.gray,
       // zinc: colors.zinc,
       // neutral: colors.neutral,
       //  stone: colors.stone,

@@ -1,6 +1,6 @@
 <script lang="ts">
   import type { Question } from "$lib/types";
-  import P5TextBubble from "$lib/P5TextBubbleNew.svg";
+  import P5TextBubble from "$lib/fancy/P5TextBubbleNew.svg";
   import TwemojiAngerSymbol from "$lib/icons/TwemojiAngerSymbol.svg";
   import TwemojiSweatDroplets from "$lib/icons/TwemojiSweatDroplets.svg";
   import TwemojiSparkles from "$lib/icons/TwemojiSparkles.svg";
@@ -50,7 +50,7 @@
 
 <style>
   .box-svg-background {
-    background-image: url("../box.svg");
+    background-image: url("./box.svg");
     background-repeat: no-repeat;
     background-size: 100% 100%;
   }

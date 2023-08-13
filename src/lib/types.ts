@@ -1,6 +1,7 @@
 export type reaction = "good" | "bad" | "ok";
 
 export type Question = {
+  uid: string;
   id: number;
   type: string;
   question: number;
