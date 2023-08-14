@@ -12,7 +12,12 @@
   export let questions: Question[] = [];
   export let opened: Question | null = null;
   export let transition: Transition | undefined;
-  // export let clickedQuestion: (question: Question) => void;
+
+  const optionalTransition = (node, options) => {
+    if (options.fn) {
+      return options.fn(node, options);
+    }
+  };
 
   const clickedQuestion = (question: Question) => {
     if (opened && opened.uid == question.uid) {
@@ -31,7 +36,7 @@
   };
 </script>
 
-<div class="w-full max-w-xl" transition:transition>
+<div class="w-full max-w-xl" transition:optionalTransition={{ fn: transition }}>
   {#each questions as question (question.uid)}
     <div class="mb-4 w-full rounded-md bg-gray-800" transition:slide>
       <button
