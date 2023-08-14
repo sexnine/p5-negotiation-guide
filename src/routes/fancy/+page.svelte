@@ -1,5 +1,5 @@
 <script lang="ts">
-  import questions from "$lib/p5.json";
+  import questions from "$lib/questions/p5.json";
   import QuestionCard from "$lib/fancy/QuestionCard.svelte";
 </script>
 
